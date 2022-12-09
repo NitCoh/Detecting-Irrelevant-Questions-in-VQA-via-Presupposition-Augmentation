@@ -32,10 +32,10 @@ Few notes:
 
 ## Generated Data
 
-###Pre-defined Templates
+### Pre-defined Templates
 https://drive.google.com/drive/folders/1KStBus0EPDvuSqrlPU2Wd4Y2AGwJTlds?usp=share_link
 
-###GQA Questions
+### GQA Questions
 https://drive.google.com/drive/folders/1MsBo41_sKn7MMddk7P0ewiwe5fp-4Quy?usp=share_link
 
 P.S we didn't run the pipeline for whole elements (scene graphs and gqa questions), thus
