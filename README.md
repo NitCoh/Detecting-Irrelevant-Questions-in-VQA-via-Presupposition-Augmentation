@@ -31,7 +31,11 @@ Few notes:
 3. External files who arent avilable in this repo, could be found in Visual Genome or GQA websites.
 
 ## Generated Data
-The data is available here: 
+
+###Pre-defined Templates
+https://drive.google.com/drive/folders/1KStBus0EPDvuSqrlPU2Wd4Y2AGwJTlds?usp=share_link
+
+###GQA Questions
 https://drive.google.com/drive/folders/1MsBo41_sKn7MMddk7P0ewiwe5fp-4Quy?usp=share_link
 
 P.S we didn't run the pipeline for whole elements (scene graphs and gqa questions), thus
