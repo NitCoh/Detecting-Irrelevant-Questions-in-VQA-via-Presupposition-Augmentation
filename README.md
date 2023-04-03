@@ -10,16 +10,15 @@ flagged as irrelevant. We define relevance from a presupposition perspec-tive
 and apply relevance theory to model the task of Visual Question Answering (VQA) in conversational settings.
 
 Our key contributions are:
-1. We provide a manual analysis of the challenging aspects of differ-
-ent questions in GQA and categorize the types into eight different
+1. We provide a manual analysis of the challenging aspects of different
+questions in GQA and categorize the types into eight different
 classes of difficulty.
 2. We developed a novel distance metric to compare presupposition to
-the given context via Scene Graphs relying on the notion of accom-
-modation process from Relevance Theory.
+the given context via Scene Graphs relying on the notion of accommodation process from Relevance Theory.
 3. We provide a new data set of irrelevant questions that contain 100k
 generated questions of different types.
-4. We train an irrelevant question detector and demonstrate its perfor-
-mance on the GQA Testdev split. We identify that about 2% of the
+4. We train an irrelevant question detector and demonstrate its performance
+on the GQA Testdev split. We identify that about 2% of the
 questions in this standard data set are actually irrelevant.
 
 
