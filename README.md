@@ -19,7 +19,7 @@ modation process from Relevance Theory.
 3. We provide a new data set of irrelevant questions that contain 100k
 generated questions of different types.
 4. We train an irrelevant question detector and demonstrate its perfor-
-mance on the GQA Testdev split. We identify that about 1.5% of the
+mance on the GQA Testdev split. We identify that about 2% of the
 questions in this standard data set are actually irrelevant.
 
 
